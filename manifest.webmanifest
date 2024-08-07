@@ -5,8 +5,8 @@
 	"background_color": "#283137",
 	"display": "standalone",
 	"id": "./",
-	"start_url": "pwa-page",
-	"scope": "pwa-page",
+	"start_url": "/",
+	"scope": "/",
 	"prefer_related_applications": false,
 	"icons": [
 		{
