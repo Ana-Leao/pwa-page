@@ -4,28 +4,26 @@
 	"theme_color": "#283137",
 	"background_color": "#283137",
 	"display": "standalone",
-	"id": "./",
-	"start_url": "/",
-	"scope": "/",
-	"prefer_related_applications": false,
+	"start_url": "/pwa-page",
+	"scope": "/pwa-page/",
 	"icons": [
 		{
-			"src": "icon-512.png",
+			"src": "/pwa-page/icon-512.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		},
 		{
-			"src": "icon-192.png",
+			"src": "/pwa-page/icon-192.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "icon-120.png",
+			"src": "/pwa-page/icon-120.png",
 			"type": "image/png",
 			"sizes": "120x120"
 		},
 		{
-			"src": "icon-72.png",
+			"src": "/pwa-page/icon-72.png",
 			"type": "image/png",
 			"sizes": "72x72"
 		}
