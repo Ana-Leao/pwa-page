@@ -13,7 +13,12 @@
 		<meta name="apple-mobile-web-app-status-bar" content="#db4938" />
 		<meta name="theme-color" content="#db4938" />
 	</head>
-	<body style="background-color: black">
-		<h1 style="color: white">PWA page test</h1>
+	<body style="background-color: black; color: white">
+		<h1>PWA page test</h1>
+		<span>service-worker</span>
 	</body>
+
+	<script>
+		navigator.serviceWorker.register("service-worker.js");
+	</script>
 </html>
